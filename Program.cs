@@ -1,11 +1,14 @@
-﻿using System;
+﻿using System; //using keyword so that the complete name is not required
+//The using directive obviates the requirement to specify the name of the namespace for every class.
 
 namespace NumberGuesser
 {
+  //namespace used to organize its many classes
+  //Console - class in Number Gesser namespace
   // Main Class
   class Program
   {
-       // Get and display app info
+    // Get and display app info
     static void GetAppInfo()
     {
       // Set app vars

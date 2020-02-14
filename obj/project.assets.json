@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eliza/Desktop/codaisseur/ownProjects/myapp/myapp.csproj",
+      "projectUniqueName": "/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/myapp.csproj",
       "projectName": "myapp",
-      "projectPath": "/home/eliza/Desktop/codaisseur/ownProjects/myapp/myapp.csproj",
+      "projectPath": "/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/myapp.csproj",
       "packagesPath": "/home/eliza/.nuget/packages/",
-      "outputPath": "/home/eliza/Desktop/codaisseur/ownProjects/myapp/obj/",
+      "outputPath": "/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/eliza/.nuget/NuGet/NuGet.Config"

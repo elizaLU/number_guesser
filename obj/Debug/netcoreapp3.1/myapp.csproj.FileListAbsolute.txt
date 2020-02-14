@@ -9,3 +9,14 @@
 /home/eliza/Desktop/codaisseur/ownProjects/myapp/obj/Debug/netcoreapp3.1/myapp.AssemblyInfo.cs
 /home/eliza/Desktop/codaisseur/ownProjects/myapp/obj/Debug/netcoreapp3.1/myapp.dll
 /home/eliza/Desktop/codaisseur/ownProjects/myapp/obj/Debug/netcoreapp3.1/myapp.pdb
+/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/bin/Debug/netcoreapp3.1/myapp
+/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/bin/Debug/netcoreapp3.1/myapp.deps.json
+/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.json
+/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.dev.json
+/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/bin/Debug/netcoreapp3.1/myapp.dll
+/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/bin/Debug/netcoreapp3.1/myapp.pdb
+/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/obj/Debug/netcoreapp3.1/myapp.csprojAssemblyReference.cache
+/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/obj/Debug/netcoreapp3.1/myapp.AssemblyInfoInputs.cache
+/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/obj/Debug/netcoreapp3.1/myapp.AssemblyInfo.cs
+/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/obj/Debug/netcoreapp3.1/myapp.dll
+/home/eliza/Desktop/codaisseur/ownProjects/numerGuesser_dotnet/obj/Debug/netcoreapp3.1/myapp.pdb
